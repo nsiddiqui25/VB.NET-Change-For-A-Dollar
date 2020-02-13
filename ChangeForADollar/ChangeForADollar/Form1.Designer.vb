@@ -1,5 +1,5 @@
 ﻿<Global.Microsoft.VisualBasic.CompilerServices.DesignerGenerated()> _
-Partial Class Form1
+Partial Class frmChangeForDollar
     Inherits System.Windows.Forms.Form
 
     'Form overrides dispose to clean up the component list.
@@ -128,7 +128,7 @@ Partial Class Form1
         Me.btnCalculate.Text = "Calculate Change"
         Me.btnCalculate.UseVisualStyleBackColor = True
         '
-        'Form1
+        'frmChangeForDollar
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
@@ -144,7 +144,7 @@ Partial Class Form1
         Me.Controls.Add(Me.lbl10c)
         Me.Controls.Add(Me.lbl25c)
         Me.Controls.Add(Me.Label1)
-        Me.Name = "Form1"
+        Me.Name = "frmChangeForDollar"
         Me.Text = "Change For A Dollar"
         Me.ResumeLayout(False)
         Me.PerformLayout()
